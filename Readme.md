@@ -10,6 +10,7 @@ Repo of the DevelopersRising Verein
 - https://www.facebook.com/Developers-Rising-273886056453052/
 - https://www.instagram.com/developers_rising/
 - http://developersrising.org/
+- https://medium.com/developersrising
 
 
 Currently the work of the Verein covers:
