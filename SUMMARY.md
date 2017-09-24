@@ -1,1 +1,1 @@
-docs/README.md
+ln docs/README.md
