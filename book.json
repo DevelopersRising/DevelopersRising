@@ -2,7 +2,7 @@
 	"gitbook": "3.x.x",
 	"title": "DevelopersRising Documentation",
 	"structure": {
-		"readme": "docs/README.md"
+		"readme": "SUMMARY.md"
 	},
 	"plugins": ["github", "anchorjs"],
 	"pluginsConfig": {
