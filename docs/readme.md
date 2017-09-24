@@ -1,6 +1,7 @@
 # Table Of Contents
 
-- [CodeOfConduct](/CodeOfConduct.md)
+* [Read Me](/README.md)
+* [ZCodeOfConduct](/CodeOfConduct.md)
 
 
 
