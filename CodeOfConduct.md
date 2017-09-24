@@ -1,20 +1,90 @@
-# Code of Conduct
-In order to foster an inclusive, kind, harassment-free, and cooperative community, Developers Rising enforces this code of conduct on our open source projects.
+# ⚖️ Code of Conduct ⚖️
 
-## Summary
-Harassment in code and discussion or violation of physical boundaries is completely unacceptable anywhere in Developer Rising’s project codebases, issue trackers, chatrooms, mailing lists, meetups, social media channels and other events. Violators will be warned by the management team. Repeat violations will result in being blocked or banned by the management team at or before the 3rd violation.
+  * [1. Purpose](#1-purpose)
+  * [2. Open Source Citizenship](#2-open-source-citizenship)
+  * [3. Expected Behavior](#3-expected-behavior)
+  * [4. Unacceptable Behavior](#4-unacceptable-behavior)
+  * [5. Weapons Policy](#5-weapons-policy)
+  * [6. Consequences of Unacceptable Behavior](#6-consequences-of-unacceptable-behavior)
+  * [7. Reporting Guidelines](#7-reporting-guidelines)
+  * [8. Addressing Grievances](#8-addressing-grievances)
+  * [9. Scope](#9-scope)
+  * [10. Contact](#10-contact)
 
-## In detail
-Harassment includes offensive verbal comments related to gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, religion, sexual images, deliberate intimidation, stalking, sustained disruption, and unwelcome sexual attention.
+## 1. Purpose
 
-Individuals asked to stop any harassing behavior are expected to comply immediately.
+A primary goal of FCC Vienna is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-Maintainers are also subject to the anti-harassment policy.
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-If anyone engages in harassing behavior, including maintainers, we may take appropriate action, up to and including warning the offender, deletion of comments, removal from the project’s codebase and communication systems, and escalation to GitHub support.
+We invite all those who participate in FCC Vienna to help us create safe and positive experiences for everyone.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the management team or email devsrising@gmail.com immediately.
+## 2. Open Source Citizenship
 
-We expect everyone to follow these rules anywhere in Developers Rising's project codebases, issue trackers, chatrooms, mailing lists, and social media.
+A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
-Finally, don't forget that it is human to make mistakes! We all do. Let’s work together to help each other, resolve issues, and learn from the mistakes that we will all inevitably make from time to time.
+Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+
+## 3. Expected Behavior
+
+The following behaviors are expected and requested of all community members:
+
+Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+Exercise consideration and respect in your speech and actions.
+Attempt collaboration before conflict.
+Refrain from demeaning, discriminatory, or harassing behavior and speech.
+Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+All events are held at a third-party location and it's necessary to obey the house rules of each place accordingly. Members make sure to inform themselves about the applying house rules of the location or, in case of doubt, ask one of the organizers for clarification.
+
+## 4. Unacceptable Behavior
+
+The following behaviors are considered harassment and are unacceptable within our community:
+
+Violence, threats of violence or violent language directed against another person.
+Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+Posting or displaying sexually explicit or violent material.
+Posting or threatening to post other people’s personally identifying information ("doxing").
+Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+Inappropriate photography or recording.
+Inappropriate physical contact. You should have someone’s consent before touching them.
+Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+Deliberate intimidation, stalking or following (online or in person).
+Advocating for, or encouraging, any of the above behavior.
+Sustained disruption of community events, including talks and presentations.
+
+## 5. Weapons Policy
+
+No weapons will be allowed at FCC Vienna events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+
+## 6. Consequences of Unacceptable Behavior
+
+Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+
+## 7. Reporting Guidelines
+
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. (See the [Readme file](./Readme.md) for current contact references)
+
+Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+
+## 8. Addressing Grievances
+
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the organizers with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+
+## 9. Scope
+
+We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+
+This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+
+## 10. Contact
+
+- <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/854371/profile/profile-80_2.jpg" height="60"> [Daniel](https://github.com/DDCreationStudios)
+- <img src="https://avatars1.githubusercontent.com/u/17717159?v=3&s=460" height="60"> [Lukas](https://github.com/lukastillmann)
+- <img src="https://avatars3.githubusercontent.com/u/13132899?v=3&s=460" height="60"> [Robert](https://github.com/robeerob)
