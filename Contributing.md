@@ -1,6 +1,6 @@
-# FCC Vienna Contributing file
+# How to contribute to DevelopersRising
 
-If you want to contribute in any form to the FFC Vienna community make sure to act accordingly to the outlined guidelines here. If you think anything is missing get in contact by writing, commenting or opening a pull request. :)
+If you want to contribute in any form to the DevelopersRising community make sure to act accordingly to the outlined guidelines here. If you think anything is missing get in contact by writing, commenting or opening a pull request. :)
 
 ## Table of contents
 
@@ -30,7 +30,7 @@ This project adheres to our [code of conduct](./CodeOfConduct.md). By participat
 - improve our mob programming code
 
 #### How?
-- All sorts of contributions will be managed as an [issue](https://github.com/FCCVienna/FCCVienna/issues) in our repository - always start from here
+- All sorts of contributions will be managed as an [issue](https://github.com/DevelopersRising/DevelopersRising/issues) in our repository - always start from here
 - Use a clear and descriptive title for the issue to identify the problem.
 - Describe the exact steps which reproduce the problem in as many details as possible. When listing steps, don't just say what you did, but explain how you did it.
 - When you have already written changes: Push your local branch to the repository and open a [Pull Request](http://makeapullrequest.com/). (Add the organizers as Reviewers)
