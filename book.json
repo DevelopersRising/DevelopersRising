@@ -1,9 +1,9 @@
 {
-  "title": "DevelopersRising Documentation",
-  "plugins": [ "github" ],
-  "pluginsConfig": {
-      "github": {
-          "url": "https://github.com/DevelopersRising/DevelopersRising"
-      }
-  }
+	"title": "DevelopersRising Documentation",
+	"plugins": ["github", "anchorjs"],
+	"pluginsConfig": {
+		"github": {
+			"url": "https://github.com/DevelopersRising/DevelopersRising"
+		}
+	}
 }
