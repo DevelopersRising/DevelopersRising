@@ -1,23 +1,23 @@
 # ⚖️ Code of Conduct ⚖️
 
-  * [1. Purpose](#1-purpose)
-  * [2. Open Source Citizenship](#2-open-source-citizenship)
-  * [3. Expected Behavior](#3-expected-behavior)
-  * [4. Unacceptable Behavior](#4-unacceptable-behavior)
-  * [5. Weapons Policy](#5-weapons-policy)
-  * [6. Consequences of Unacceptable Behavior](#6-consequences-of-unacceptable-behavior)
-  * [7. Reporting Guidelines](#7-reporting-guidelines)
-  * [8. Addressing Grievances](#8-addressing-grievances)
-  * [9. Scope](#9-scope)
-  * [10. Contact](#10-contact)
+* [1. Purpose](#1-purpose)
+* [2. Open Source Citizenship](#2-open-source-citizenship)
+* [3. Expected Behavior](#3-expected-behavior)
+* [4. Unacceptable Behavior](#4-unacceptable-behavior)
+* [5. Weapons Policy](#5-weapons-policy)
+* [6. Consequences of Unacceptable Behavior](#6-consequences-of-unacceptable-behavior)
+* [7. Reporting Guidelines](#7-reporting-guidelines)
+* [8. Addressing Grievances](#8-addressing-grievances)
+* [9. Scope](#9-scope)
+* [10. Contact](#10-contact)
 
 ## 1. Purpose
 
-A primary goal of FCC Vienna is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of the code of conduct for the DevelopersRising Verein is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in FCC Vienna to help us create safe and positive experiences for everyone.
+We invite all those who participate in the DevelopersRising to help us create safe and positive experiences for everyone.
 
 ## 2. Open Source Citizenship
 
@@ -57,7 +57,7 @@ Sustained disruption of community events, including talks and presentations.
 
 ## 5. Weapons Policy
 
-No weapons will be allowed at FCC Vienna events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+No weapons will be allowed at DevelopersRising events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
 
 ## 6. Consequences of Unacceptable Behavior
 
@@ -81,10 +81,9 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occuring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
 ## 10. Contact
 
-- <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/854371/profile/profile-80_2.jpg" height="60"> [Daniel](https://github.com/DDCreationStudios)
-- <img src="https://avatars1.githubusercontent.com/u/17717159?v=3&s=460" height="60"> [Lukas](https://github.com/lukastillmann)
+- <img src="https://avatars3.githubusercontent.com/u/22077628?v=3&s=460" height="60"> [Daniel](https://github.com/DDCreationStudios)
 - <img src="https://avatars3.githubusercontent.com/u/13132899?v=3&s=460" height="60"> [Robert](https://github.com/robeerob)
