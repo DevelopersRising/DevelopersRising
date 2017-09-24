@@ -1,7 +1,7 @@
 # Table Of Contents
 
 * [Read Me](/README.md)
-* [ZCodeOfConduct](/CodeOfConduct.md)
+* [ZCodeOfConduct](/docs/CodeOfConduct.md)
 
 
 
