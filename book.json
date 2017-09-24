@@ -1,4 +1,5 @@
 {
+	"gitbook": "3.x.x",
 	"title": "DevelopersRising Documentation",
 	"plugins": ["github", "anchorjs"],
 	"pluginsConfig": {
