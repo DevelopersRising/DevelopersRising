@@ -1,6 +1,6 @@
 # Social Media Guidelines
 
-TOC
+## Content
 
   - [Purpose](#purpose)
   - [Channels](#channels)
@@ -9,6 +9,9 @@ TOC
     - [Facebook](#facebook)
     - [Instagram](#instagram)
     - [Medium](#medium)
+  - [Unused channels](#unused-channels)
+    - [Snapchat](#snapchat)
+    - [Chatrooms](#chatrooms)
 
 
 
@@ -45,15 +48,17 @@ The basis for our Twitter strategy is to follow, within reason, as many local an
 
 We also strive to always share online content we come across with a descriptive and/or engaging tweet body and pictures where possible. This can be content such as articles, blog posts, videos, talks, resources, etc.
 
-Hashtags can be included and should be relevant to our topics and community only (no #followfriday #retweetme etc). Suggested hashtags: #webdev #javascript #frontend #backend #code #learntocode #developers #programming ...
+Hashtags can be included and should be relevant to our topics and community only (no #followfriday #retweetme etc). Suggested hashtags: #webdev #javascript #frontend #backend #code #learntocode #developers #programming #100daysofcode #freecodecamp #reactjs #nodejs #vuejs #golang, etc etc. If there is more characters left in the tweet, try to always fill it with as many relevant hashtags as possible.
+
+The reason for our focus on hashtags is simply to make our tweets visible to more potential people. Twitter promote hashtags via highlights, and some people search for hashtags to find interesting tweets.
+
+Another strategy is to ask questions on Twitter. Either via polls, open questions to promote discussion, or retorical/leading questions to create engagement. You can also ask for someone's opinion on a news story, controversial article, or other interesting content.
 
 ### Facebook
 
 Since Facebook is one of the oldest platforms, we can see it's powers but also limitations. Facebook has developed to a platform, where you have to invest money to actually be seen. Therefore we see the facebook presence more on an informational purpose, rather than real exposure. 
 
 Efforts can be limited to provide up-to-date information and simply copying post from other platforms. 
-
-
 
 ### Instagram
 
@@ -64,7 +69,6 @@ Instagram is a platform, which lives on visuals. Therefore it the only determini
 Because of the timing we aim for a strategy that sees consistency more important that quality. Nevertheless quality is very important. 
 
 The goal is to publish two pictures per week.
-
 
 ### Medium
 
@@ -81,3 +85,13 @@ It's always important to comply the general code of conduct and the principle va
 The publication shall reflect the strengths of each member and does therefore not limit creativity. 
 
 The medium publication allows editing from so called "editors", who will correct mistakes and ensure the quality of each post. 
+
+## Unused channels
+
+### Snapchat
+
+Although we recognize Snapchat as a powerful platform especially for a younger audience, the lack of understanding the app and the expectation of a low ROI disqualifies it for our marketing portfolio. 
+
+### Chatrooms
+
+At the date of writing we don't see any value for chatrooms for the Verein. 
