@@ -1,5 +1,17 @@
 # Social Media Guidelines
 
+TOC
+
+  - [Purpose](#purpose)
+  - [Channels](#channels)
+  - [Strategy for social media management](#strategy-for-social-media-management)
+    - [Twitter](#twitter)
+    - [Facebook](#facebook)
+    - [Instagram](#instagram)
+    - [Medium](#medium)
+
+
+
 ## Purpose
 
 The purpose of maintaining and managing a social media presence is mainly twofold:
@@ -10,8 +22,6 @@ The purpose of maintaining and managing a social media presence is mainly twofol
 1. To build a presence online which potentially allows us to reach more developers and collaborators, in the following ways:
    1. following and engaging with social media profiles within the broad interest topics of "developers" and "programming"
    2. to share interesting content that we believe will engage or benefit the wider developer community
-
-This document will mainly cover point 2a and 2b above.
 
 ## Channels
 
@@ -27,6 +37,8 @@ Our strategy follows our code of conduct, and thus aims to be inclusive, kind, h
 
 Each social media platform has it's different culture and ways of doing things. We've thus divided this section into one sub-section per platform.
 
+The first principle in marketing the Verein with social media is content creation. Everything else is secondary. Especially Daniel thinks that (quality) content trumps everything else. Content markets itself when it's good. 
+
 ### Twitter
 
 The basis for our Twitter strategy is to follow, within reason, as many local and international developers (and interesting profiles in the developer space) as possible. Part of our content strategy is then to retweet interesting tweets from these profiles, as well as keeping a regular eye on Twitter's [Highlights section](https://support.twitter.com/articles/20172652) and like and retweet what looks like it could be of interest to our community.
@@ -37,8 +49,35 @@ Hashtags can be included and should be relevant to our topics and community only
 
 ### Facebook
 
+Since Facebook is one of the oldest platforms, we can see it's powers but also limitations. Facebook has developed to a platform, where you have to invest money to actually be seen. Therefore we see the facebook presence more on an informational purpose, rather than real exposure. 
+
+Efforts can be limited to provide up-to-date information and simply copying post from other platforms. 
+
+
 
 ### Instagram
 
+We perceive Instagram as one of the most important platforms of today (2017). The attention span of consumers is incredible high and allows therefore one of the most effective content delivery. 
+
+Instagram is a platform, which lives on visuals. Therefore it the only determining factor is to provide quality pictures. We agree on a certain range of hashtags targeting only very specific keywords. (See [Twitter](#twitter)) 
+
+Because of the timing we aim for a strategy that sees consistency more important that quality. Nevertheless quality is very important. 
+
+The goal is to publish two pictures per week.
+
 
 ### Medium
+
+We perceive the Medium publication as one of the most important blogging tools at the time. 
+
+Contentwise we are able to publish perfectly every topic we like. The publication allows easily to classify posts into different topics, where our main focus lies on
+- programming /development
+- motivation
+- learning
+- life stories
+
+It's always important to comply the general code of conduct and the principle values of our Verein. 
+
+The publication shall reflect the strengths of each member and does therefore not limit creativity. 
+
+The medium publication allows editing from so called "editors", who will correct mistakes and ensure the quality of each post. 
