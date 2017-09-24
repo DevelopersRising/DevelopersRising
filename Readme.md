@@ -3,6 +3,11 @@ Repo of the DevelopersRising Verein
 
 # DevelopersRising
 
+## Documentation on Gitbooks
+
+https://developersrising.gitbooks.io/developersrising-documentation/content/
+
+
 ## Public Appearance
 
 - https://twitter.com/DevsRising
