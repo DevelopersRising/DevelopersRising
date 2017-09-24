@@ -3,7 +3,7 @@
   "plugins": [ "github" ],
   "pluginsConfig": {
       "github": {
-          "url": "https://github.com/your/repo"
+          "url": "https://github.com/DevelopersRising/DevelopersRising"
       }
   }
 }
