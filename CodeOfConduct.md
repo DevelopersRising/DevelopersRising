@@ -18,9 +18,3 @@ If you are being harassed, notice that someone else is being harassed, or have a
 We expect everyone to follow these rules anywhere in Developers Rising's project codebases, issue trackers, chatrooms, mailing lists, and social media.
 
 Finally, don't forget that it is human to make mistakes! We all do. Let’s work together to help each other, resolve issues, and learn from the mistakes that we will all inevitably make from time to time.
-
-## Thanks
-This license is based entirely on [Thoughtbot's Open Source Code of Conduct](https://thoughtbot.com/open-source-code-of-conduct). A huge thanks to their work in writing such an awesome document that we 100% stand by and chose to use for our own organization as a result.
-
-## License
-To the extent possible under law, the Developers Rising team has waived all copyright and related or neighboring rights to Developers Rising Code of Conduct. This work is published from Austria.
