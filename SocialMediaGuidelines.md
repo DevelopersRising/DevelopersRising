@@ -1,6 +1,6 @@
 # Social Media Guidelines
 
-TOC
+## Content
 
   - [Purpose](#purpose)
   - [Channels](#channels)
@@ -9,6 +9,9 @@ TOC
     - [Facebook](#facebook)
     - [Instagram](#instagram)
     - [Medium](#medium)
+  - [Unused channels](#unused-channels)
+    - [Snapchat](#snapchat)
+    - [Chatrooms](#chatrooms)
 
 
 
@@ -81,3 +84,14 @@ It's always important to comply the general code of conduct and the principle va
 The publication shall reflect the strengths of each member and does therefore not limit creativity. 
 
 The medium publication allows editing from so called "editors", who will correct mistakes and ensure the quality of each post. 
+
+
+## Unused channels
+
+### Snapchat
+
+Although we recognize Snapchat as a powerful platform especially for a younger audience, the lack of understanding the app and the expectation of a low ROI disqualifies it for our marketing portfolio. 
+
+### Chatrooms
+
+At the date of writing we don't see any value for chatrooms for the Verein. 
