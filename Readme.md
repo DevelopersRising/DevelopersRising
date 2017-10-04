@@ -1,6 +1,20 @@
 # DevelopersRising
 [![Non-Profit Organization](https://img.shields.io/badge/Official-Non_Profit_Organization-brightgreen.svg?style=plastic)](https://github.com/DevelopersRising) [![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]()
 
+# Let us help! You are ...
+
+## Aspiring Developer
+
+[Here is how we can help you.](Link)
+
+## Experienced Developer
+
+[Here is how we can help you.](Link)
+
+## Company Hiring
+
+[Here is how we can help you.](Link)
+
 ### Table of contents
 
   - [Documentation on Gitbooks](#documentation-on-gitbooks)
@@ -34,17 +48,13 @@
 
 > Help, connect and empower!
 
-DevelopersRising is an open source organization dedicated to supporting developers.
+DevelopersRising is an open source organization dedicated to help developers realize their goals, connect companies with potential hires, and fascilitate growth for all kinds of programmers.
 
-We help developers realize their goals, connect companies with potential hires, and fascilitate growth for all kinds of programmers.
+#### Aspiring Developer
 
-#### Help
+#### Experienced Developer
 
-#### Connect
-
-Community is an important aspect of all things open source, yet often neglected.
-
-#### Empower
+#### Company Hiring
 
 ### a brief introduction to our verein
 
