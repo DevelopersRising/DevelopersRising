@@ -37,11 +37,27 @@
 
 ## Our work
 
+DevelopersRising is an open source organization dedicated to supporting developers. Our aim is to help, connect and empower!
+
+#### Help
+
+#### Connect
+
+Community is an important aspect of all things open source, yet often neglected.
+
+#### Empower
+
+### a brief introduction to our verein
+
+### communicating the mission statement
+
+### Meetups
+
 ##### 1. FCC Vienna
 
 https://www.meetup.com/Free-Code-Camp-Vienna/
 
-##### 2. Vienna Go
+##### 2. vienna.go - Vienna Go User Group
 
 https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/
 
