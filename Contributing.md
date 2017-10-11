@@ -33,6 +33,12 @@ This project adheres to our [code of conduct](./CodeOfConduct.md). By participat
 
 ## How Can I Contribute?
 
+#### Workflow 
+
+We use Gitflow (See more [here](https://datasift.github.io/gitflow/IntroducingGitFlow.html))
+
+![workflow gitflow](https://datasift.github.io/gitflow/GitFlowHotfixBranch.png)
+
 #### For example
 - reporting bugs of existing code and files
 - suggesting enhancements on existing code or organizational elements
