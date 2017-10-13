@@ -47,7 +47,8 @@ https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/
 
 
 ## Our Goals
----
+ Our goals are to provide a free and meaningful experience to every human being hungry for learning, sharing and socializing.
+we aim to give the chance for those who can't afford it the possibility to learn and evolove. 
 ## Our Program
 ---
 ## Partners
