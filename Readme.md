@@ -94,7 +94,6 @@ This is a group for anyone interested in "Vue.js - The Progressive JavaScript Fr
 ## Partners
 ---
 
-
 ## Organizer Team
 
 The Verein is organized by Daniel Deutsch and Robert Axelsen.
