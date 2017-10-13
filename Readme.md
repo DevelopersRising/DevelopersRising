@@ -1,21 +1,31 @@
 # DevelopersRising
 [![Non-Profit Organization](https://img.shields.io/badge/Official-Non_Profit_Organization-brightgreen.svg?style=plastic)](https://github.com/DevelopersRising) [![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]()
 
-# Let us help! You are ...
+> Help, connect and empower!
 
-## Aspiring Developer
+DevelopersRising is an open source organization dedicated to help developers realize their goals, connect companies with potential hires, and fascilitate growth for all kinds of programmers.
 
-[Here is how we can help you.](Link)
+## Aspiring And Professional Developers
 
-## Experienced Developer
+We help both aspiring and experienced developers.
 
-[Here is how we can help you.](Link)
+[Here's how we can help you.](Link)
+
+## Hobbyist Developers And Programmers
+
+We help hobbyist developers of all kinds.
+
+[Here's how we can help you.](Link)
 
 ## Company Hiring
 
-[Here is how we can help you.](Link)
+We help companies connect with developers.
+
+[Here's how we can help you.](Link)
 
 ### Table of contents
+
+TODO: @ DDCreationStudios, can you please update this with your software tool? Let's anyways discuss best way to solve ToC so we're not reliant on you for this in the future
 
   - [Documentation on Gitbooks](#documentation-on-gitbooks)
   - [Public Appearance](#public-appearance)
@@ -28,11 +38,9 @@
   - [Organizer Team](#organizer-team)
   - [License](#license)
 
-
 ## Documentation on Gitbooks
 
 - https://developersrising.gitbooks.io/developersrising-documentation/content/
-
 
 ## Public Appearance
 
@@ -43,33 +51,41 @@
 - http://developersrising.org/
 - https://medium.com/developersrising
 
+## Helping Developers
 
-## Our work
+Our current focus for helping developers is centered around our meetups. A meetup is an event, usually happening monthly on evenings during weekdays. Join a meetup to watch live talks, get inspired, connect with like-minded learners and companies looking to hire, or to socialize in a casual setting.
 
-> Help, connect and empower!
+Our talks are centered around programming and related topics, and given by members in the community - from beginners to seasoned veterans. Feel free to approach us if you are interesting in giving a talk.
 
-DevelopersRising is an open source organization dedicated to help developers realize their goals, connect companies with potential hires, and fascilitate growth for all kinds of programmers.
+[Check out our meetups...](Link to meetup section)
 
-#### Aspiring Developer
+## Helping Companies
 
-#### Experienced Developer
+Our current focus for helping companies is to provide the opportunity to get together with potential new employees or customers at one our are many meetups.
 
-#### Company Hiring
+By sponsoring an event you get the ability to give a talk to our attendees presenting your company and/or available positions, connect with developers of varying experience levels, and schedule follow-up talks with candidates.
 
-### a brief introduction to our verein
+[Check out our meetups...](Link to meetup section)
 
-### communicating the mission statement
+## Meetups
 
-### Meetups
+#### FreeCodeCamp Vienna
 
-##### 1. FCC Vienna
+Official Vienna [Free Code Camp](https://www.freecodecamp.org/) meetup group.
 
-https://www.meetup.com/Free-Code-Camp-Vienna/
+[Sign up and see upcoming meetups at Meetup.com](https://www.meetup.com/Free-Code-Camp-Vienna/)
 
-##### 2. vienna.go - Vienna Go User Group
+#### vienna.go - Vienna Go User Group
 
-https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/
+Go (golang) programming language user group for Vienna, Austria.
 
+[Sign up and see upcoming meetups at Meetup.com](https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/)
+
+#### Vue.js Vienna
+
+This is a group for anyone interested in "Vue.js - The Progressive JavaScript Framework".
+
+[Sign up and see upcoming meetups at Meetup.com](https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/)
 
 ## Our Goals
 ---
