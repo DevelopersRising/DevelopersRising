@@ -21,7 +21,7 @@ If you want to contribute in any form to the DevelopersRising community make sur
 1. open a new branch with `feature/<yourname>` (!)
 1. add your changes  (use `git add` and `git commit`)
 1. push your changes (use `git push`) 
-1. open a pull request 
+1. open a pull request ([learn more]( http://makeapullrequest.com/ ))
 1. use hashtags referencing issues and add the organizers for reviews (!)
 
 
