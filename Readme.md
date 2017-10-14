@@ -4,7 +4,22 @@
 </a>
 </h1>
 
-# DevelopersRising [![Non-Profit Organization](https://img.shields.io/badge/Official-Non_Profit_Organization-brightgreen.svg?style=plastic)](https://github.com/DevelopersRising) [![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]()
+# DevelopersRising
+[![Non-Profit Organization](https://img.shields.io/badge/Official-Non_Profit_Organization-brightgreen.svg?style=plastic)](https://github.com/DevelopersRising) [![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]()
+
+# Let us help! You are ...
+
+## Aspiring Developer
+
+[Here is how we can help you.](Link)
+
+## Experienced Developer
+
+[Here is how we can help you.](Link)
+
+## Company Hiring
+
+[Here is how we can help you.](Link)
 
 ### Table of contents
 
@@ -37,11 +52,27 @@
 
 ## Our work
 
+> Help, connect and empower!
+
+DevelopersRising is an open source organization dedicated to help developers realize their goals, connect companies with potential hires, and fascilitate growth for all kinds of programmers.
+
+#### Aspiring Developer
+
+#### Experienced Developer
+
+#### Company Hiring
+
+### a brief introduction to our verein
+
+### communicating the mission statement
+
+### Meetups
+
 ##### 1. FCC Vienna
 
 https://www.meetup.com/Free-Code-Camp-Vienna/
 
-##### 2. Vienna Go
+##### 2. vienna.go - Vienna Go User Group
 
 https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/
 
@@ -73,6 +104,7 @@ You can also open an issue and mention one of us. 😄
 The content of this repository bound by the [BSD-3-Clause](./LICENSE_software.md).
 
 Copyright (c) 2017 DevelopersRising.
+
 
 
 
