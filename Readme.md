@@ -1,7 +1,7 @@
 # DevelopersRising
 [![Non-Profit Organization](https://img.shields.io/badge/Official-Non_Profit_Organization-brightgreen.svg?style=plastic)](https://github.com/DevelopersRising) [![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]()
 
-> Help, connect and empower!
+> Help, connect and inspire!
 
 DevelopersRising is an open source organization dedicated to help developers realize their goals, connect companies with potential hires, and fascilitate growth for all kinds of programmers.
 
