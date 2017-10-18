@@ -56,6 +56,15 @@
 
 DevelopersRising is an open source organization dedicated to help developers realize their goals, connect companies with potential hires, and fascilitate growth for all kinds of programmers.
 
+Our goal is to help, connect and inspire. Here are some of the things we've accomplished:
+
+-1000+ Meetup Members
+-20+ Successful Free Meetups
+-20+ Awesome Speakers
+-5+ Sponsors And Partners Involved
+-4+ Active Open Source Repos
+-Founded 3 Meetup Groups
+
 #### Aspiring Developer
 
 #### Experienced Developer
