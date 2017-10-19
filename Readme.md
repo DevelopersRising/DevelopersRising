@@ -11,12 +11,23 @@
 
 DevelopersRising is an open source organization dedicated to help developers realize their goals, connect companies with potential hires, and fascilitate growth for all kinds of programmers.
 
-- **Aspiring And Professional Developers** ([more](#helping-developers))
-  - We help both aspiring and experienced developers.
-- **Hobbyist Developers And Programmers** ([more](#helping-developers))
-  - We help hobbyist developers of all kinds.
-- **Company Hiring** ([more](#helping-companies))
-  - We help companies connect with developers.
+## Aspiring And Professional Developers
+
+We help both aspiring and experienced developers.
+
+[Here's how we can help you.](#helping-developers)
+
+## Hobbyist Developers And Programmers
+
+We help hobbyist developers of all kinds.
+
+[Here's how we can help you.](#helping-developers)
+
+## Company Hiring
+
+We help companies connect with developers.
+
+[Here's how we can help you.](#helping-companies)
 
 ---
 
@@ -70,12 +81,12 @@ By sponsoring an event you get the ability to give a talk to our attendees prese
 
 ## Meetups
 
-- FreeCodeCamp Vienna
-  - Official Vienna [Free Code Camp](https://www.freecodecamp.org/) meetup group.[see more](https://www.meetup.com/Free-Code-Camp-Vienna/)
-- vienna.go - Vienna Go User Group
-  - Go (golang) programming language user group for Vienna, Austria.[see more](https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/)
-- Vue.js Vienna
-  - This is a group for anyone interested in "Vue.js - The Progressive JavaScript Framework".[see more](https://www.meetup.com/Vue-js-Vienna/)
+- [FreeCodeCamp Vienna](https://www.meetup.com/Free-Code-Camp-Vienna/)
+  - Official Vienna [Free Code Camp](https://www.freecodecamp.org/) meetup group.
+- [vienna.go - Vienna Go User Group](https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/)
+  - Go (golang) programming language user group for Vienna, Austria.
+- [Vue.js Vienna](https://www.meetup.com/Vue-js-Vienna/)
+  - This is a group for anyone interested in "Vue.js - The Progressive JavaScript Framework".
 
 ## Our Goals
  Our goals are to provide a free and meaningful experience to every human being hungry for learning, sharing and socializing.
@@ -103,7 +114,4 @@ You can also open an issue and mention one of us. 😄
 The content of this repository bound by the [BSD-3-Clause](./LICENSE_software.md).
 
 Copyright (c) 2017 DevelopersRising.
-
-
-
 
