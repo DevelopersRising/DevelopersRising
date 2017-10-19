@@ -62,23 +62,12 @@ By sponsoring an event you get the ability to give a talk to our attendees prese
 
 ## Meetups
 
-#### FreeCodeCamp Vienna
-
-Official Vienna [Free Code Camp](https://www.freecodecamp.org/) meetup group.
-
-[see more](https://www.meetup.com/Free-Code-Camp-Vienna/)
-
-#### vienna.go - Vienna Go User Group
-
-Go (golang) programming language user group for Vienna, Austria.
-
-[see more](https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/)
-
-#### Vue.js Vienna
-
-This is a group for anyone interested in "Vue.js - The Progressive JavaScript Framework".
-
-[see more](https://www.meetup.com/Vue-js-Vienna/)
+- FreeCodeCamp Vienna
+  - Official Vienna [Free Code Camp](https://www.freecodecamp.org/) meetup group.[see more](https://www.meetup.com/Free-Code-Camp-Vienna/)
+- vienna.go - Vienna Go User Group
+  - Go (golang) programming language user group for Vienna, Austria.[see more](https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/)
+- Vue.js Vienna
+  - This is a group for anyone interested in "Vue.js - The Progressive JavaScript Framework".[see more](https://www.meetup.com/Vue-js-Vienna/)
 
 ## Our Goals
 ---
