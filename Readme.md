@@ -1,31 +1,24 @@
-# DevelopersRising
-[![Non-Profit Organization](https://img.shields.io/badge/Official-Non_Profit_Organization-brightgreen.svg?style=plastic)](https://github.com/DevelopersRising) [![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]()
+<h1 align=center>
+<a href="https://developersrising.org/">
+<img src="./images/wien3.jpg">
+</a>
+</h1>
+
+# DevelopersRising [![Non-Profit Organization](https://img.shields.io/badge/Official-Non_Profit_Organization-brightgreen.svg?style=plastic)](https://github.com/DevelopersRising) [![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]()
 
 > Help, connect and inspire!
 
 DevelopersRising is an open source organization dedicated to help developers realize their goals, connect companies with potential hires, and fascilitate growth for all kinds of programmers.
 
-## Aspiring And Professional Developers
+- **Aspiring And Professional Developers** ([more]())
+  - We help both aspiring and experienced developers.
+- **Hobbyist Developers And Programmers** ([more]())
+  - We help hobbyist developers of all kinds.
+- **Company Hiring** ([more]())
+  - We help companies connect with developers.
 
-We help both aspiring and experienced developers.
-
-[Here's how we can help you.](Link)
-
-## Hobbyist Developers And Programmers
-
-We help hobbyist developers of all kinds.
-
-[Here's how we can help you.](Link)
-
-## Company Hiring
-
-We help companies connect with developers.
-
-[Here's how we can help you.](Link)
 
 ### Table of contents
-
-TODO: @ DDCreationStudios, can you please update this with your software tool? Let's anyways discuss best way to solve ToC so we're not reliant on you for this in the future
 
   - [Documentation on Gitbooks](#documentation-on-gitbooks)
   - [Public Appearance](#public-appearance)
