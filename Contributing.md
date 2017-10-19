@@ -4,14 +4,25 @@ If you want to contribute in any form to the DevelopersRising community make sur
 
 ## Table of contents
 
-  * [What should I know before I get started?](#what-should-i-know-before-i-get-started)
-      * [Code of Conduct](#code-of-conduct)
-  * [How Can I Contribute?](#how-can-i-contribute)
-      * [For example](#for-example)
-      * [How?](#how)
-      * [Pull Requests](#pull-requests)
-  * [Styleguides](#styleguides)
-      * [Git Commit Messages](#git-commit-messages)
+  - [Step-by-step guide](#step-by-step-guide)
+  - [What should I know before I get started?](#what-should-i-know-before-i-get-started)
+      - [Code of Conduct](#code-of-conduct)
+  - [How Can I Contribute?](#how-can-i-contribute)
+      - [For example](#for-example)
+      - [How?](#how)
+      - [Pull Requests](#pull-requests)
+  - [Styleguides](#styleguides)
+      - [Git Commit Messages](#git-commit-messages)
+
+
+## Step-by-step guide 
+
+1. `Git clone` the repository 
+1. open a new branch with `feature/<yourname>` (!)
+1. add your changes  (use `git add` and `git commit`)
+1. push your changes (use `git push`) 
+1. open a pull request ([learn more]( http://makeapullrequest.com/ ))
+1. use hashtags referencing issues and add the organizers for reviews (!)
 
 
 ## What should I know before I get started?
@@ -21,6 +32,12 @@ If you want to contribute in any form to the DevelopersRising community make sur
 This project adheres to our [code of conduct](./CodeOfConduct.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to one of the organizers.
 
 ## How Can I Contribute?
+
+#### Workflow 
+
+We use Gitflow (See more [here](https://datasift.github.io/gitflow/IntroducingGitFlow.html))
+
+![workflow gitflow](https://datasift.github.io/gitflow/GitFlowHotfixBranch.png)
 
 #### For example
 - reporting bugs of existing code and files

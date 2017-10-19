@@ -4,7 +4,8 @@
 </a>
 </h1>
 
-# DevelopersRising [![Non-Profit Organization](https://img.shields.io/badge/Official-Non_Profit_Organization-brightgreen.svg?style=plastic)](https://github.com/DevelopersRising) [![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]()
+# DevelopersRising
+[![Non-Profit Organization](https://img.shields.io/badge/Official-Non_Profit_Organization-brightgreen.svg?style=plastic)](https://github.com/DevelopersRising) [![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]()
 
 > Help, connect and inspire!
 
@@ -77,7 +78,8 @@ By sponsoring an event you get the ability to give a talk to our attendees prese
   - This is a group for anyone interested in "Vue.js - The Progressive JavaScript Framework".[see more](https://www.meetup.com/Vue-js-Vienna/)
 
 ## Our Goals
----
+ Our goals are to provide a free and meaningful experience to every human being hungry for learning, sharing and socializing.
+we aim to give the chance for those who can't afford it the possibility to learn and evolove. 
 ## Our Program
 ---
 ## Partners
@@ -101,6 +103,7 @@ You can also open an issue and mention one of us. 😄
 The content of this repository bound by the [BSD-3-Clause](./LICENSE_software.md).
 
 Copyright (c) 2017 DevelopersRising.
+
 
 
 
