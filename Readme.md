@@ -10,11 +10,11 @@
 
 DevelopersRising is an open source organization dedicated to help developers realize their goals, connect companies with potential hires, and fascilitate growth for all kinds of programmers.
 
-- **Aspiring And Professional Developers** ([more]())
+- **Aspiring And Professional Developers** ([more](#helping-developers))
   - We help both aspiring and experienced developers.
-- **Hobbyist Developers And Programmers** ([more]())
+- **Hobbyist Developers And Programmers** ([more](#helping-developers))
   - We help hobbyist developers of all kinds.
-- **Company Hiring** ([more]())
+- **Company Hiring** ([more](#helping-companies))
   - We help companies connect with developers.
 
 
@@ -50,7 +50,7 @@ Our current focus for helping developers is centered around our meetups. A meetu
 
 Our talks are centered around programming and related topics, and given by members in the community - from beginners to seasoned veterans. Feel free to approach us if you are interesting in giving a talk.
 
-[Check out our meetups...](Link to meetup section)
+[Check out our meetups...](#meetups)
 
 ## Helping Companies
 
@@ -58,7 +58,7 @@ Our current focus for helping companies is to provide the opportunity to get tog
 
 By sponsoring an event you get the ability to give a talk to our attendees presenting your company and/or available positions, connect with developers of varying experience levels, and schedule follow-up talks with candidates.
 
-[Check out our meetups...](Link to meetup section)
+[Check out our meetups...](#meetups)
 
 ## Meetups
 
@@ -66,19 +66,19 @@ By sponsoring an event you get the ability to give a talk to our attendees prese
 
 Official Vienna [Free Code Camp](https://www.freecodecamp.org/) meetup group.
 
-[Sign up and see upcoming meetups at Meetup.com](https://www.meetup.com/Free-Code-Camp-Vienna/)
+[see more](https://www.meetup.com/Free-Code-Camp-Vienna/)
 
 #### vienna.go - Vienna Go User Group
 
 Go (golang) programming language user group for Vienna, Austria.
 
-[Sign up and see upcoming meetups at Meetup.com](https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/)
+[see more](https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/)
 
 #### Vue.js Vienna
 
 This is a group for anyone interested in "Vue.js - The Progressive JavaScript Framework".
 
-[Sign up and see upcoming meetups at Meetup.com](https://www.meetup.com/Vienna-go-Vienna-Go-User-Group/)
+[see more](https://www.meetup.com/Vue-js-Vienna/)
 
 ## Our Goals
 ---
