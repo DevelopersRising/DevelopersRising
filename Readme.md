@@ -17,19 +17,26 @@ DevelopersRising is an open source organization dedicated to help developers rea
 - **Company Hiring** ([more](#helping-companies))
   - We help companies connect with developers.
 
+---
 
 ### Table of contents
 
+<!-- TOC -->
+
   - [Documentation on Gitbooks](#documentation-on-gitbooks)
   - [Public Appearance](#public-appearance)
-  - [Our work](#our-work)
-      - [1. FCC Vienna](#1-fcc-vienna)
-      - [2. Vienna Go](#2-vienna-go)
+  - [Helping Developers](#helping-developers)
+  - [Helping Companies](#helping-companies)
+  - [Meetups](#meetups)
   - [Our Goals](#our-goals)
   - [Our Program](#our-program)
-  - [Sponsors](#sponsors)
+  - [Partners](#partners)
   - [Organizer Team](#organizer-team)
   - [License](#license)
+
+<!-- /TOC -->
+
+---
 
 ## Documentation on Gitbooks
 
