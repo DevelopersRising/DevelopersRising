@@ -29,7 +29,7 @@ If you want to contribute in any form to the DevelopersRising community make sur
 
 #### Code of Conduct
 
-This project adheres to our [code of conduct](./CodeOfConduct.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to one of the organizers.
+This project adheres to our [code of conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to one of the organizers.
 
 ## How Can I Contribute?
 
