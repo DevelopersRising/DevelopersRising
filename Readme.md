@@ -96,12 +96,12 @@ we aim to give the chance for those who can't afford it the possibility to learn
 
 Here are some of the things we've accomplished:
 
--1000+ Meetup Members
--20+ Successful Free Meetups
--20+ Awesome Speakers
--5+ Sponsors And Partners Involved
--4+ Active Open Source Repos
--Founded 3 Meetup Groups
+- 1000+ Meetup Members  
+- 20+ Successful Free Meetups  
+- 20+ Awesome Speakers  
+- 5+ Sponsors And Partners Involved  
+- 4+ Active Open Source Repos  
+- Founded 3 Meetup Groups  
 
 ## Our Program
 ---
