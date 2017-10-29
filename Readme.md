@@ -89,8 +89,20 @@ By sponsoring an event you get the ability to give a talk to our attendees prese
   - This is a group for anyone interested in "Vue.js - The Progressive JavaScript Framework".
 
 ## Our Goals
- Our goals are to provide a free and meaningful experience to every human being hungry for learning, sharing and socializing.
-we aim to give the chance for those who can't afford it the possibility to learn and evolove. 
+Our goals are to provide a free and meaningful experience to every human being hungry for learning, sharing and socializing.
+we aim to give the chance for those who can't afford it the possibility to learn and evolove.
+
+## Accomplishments
+
+Here are some of the things we've accomplished:
+
+-1000+ Meetup Members
+-20+ Successful Free Meetups
+-20+ Awesome Speakers
+-5+ Sponsors And Partners Involved
+-4+ Active Open Source Repos
+-Founded 3 Meetup Groups
+
 ## Our Program
 ---
 ## Partners
