@@ -21,7 +21,7 @@ Here are some examples on what you can do:
 - Project Development
   - Start your own project and be the project manager of it. 
   - Present you project and get feedback
-- Innovater
+- Innovator
   - help with new ideas we can work on
   - create detailed plans on how to accomplish them
 - Everything else
