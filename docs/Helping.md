@@ -1,5 +1,4 @@
-
-
+# How to help
 
 This document is a starting point for any non-profit contributions to this organization.
 
