@@ -4,11 +4,11 @@ This document is a starting point for any non-profit contributions to this organ
 
 ## What do you want to do? 
 
-First of thank you very much for decided to contribute to society and make the world a better place.
+First of thank you very much for deciding to contribute to society and make the world a better place.
 
 Now you have to ask yourself what you enjoy doing and what your skillset is. 
 
-Here are some examples on what you can do:
+Here are some examples of what you can do:
 - Coding 
   - Contribute to our repositories, improve the homepage or other projects, start new projects or ideas
 - Writing 
@@ -20,20 +20,16 @@ Here are some examples on what you can do:
   - Those tasks cover emails, meetings, phone calls, skype calls 
 - Project Development
   - Start your own project and be the project manager of it. 
-  - Present you project and get feedback
+  - Present your project and get feedback
 - Innovator
   - help with new ideas we can work on
   - create detailed plans on how to accomplish them
 - Everything else
   - You are skilled in some area? Simply show us 
 
-## Show us
-
-We meet 1000 of people, who only talk. Show us related projects or your motivation for the desired task. Come up with detailed plans on how to accomplish the task. 
-
 ## Don't be afraid to fail
 
-You can only win to try new things. Just start and feel the excitement of accomplishing something great in life. 
+You can only win by trying new things. Just start and feel the excitement of accomplishing something great in life. 
 
 ## Example of contributing to the organization
 
